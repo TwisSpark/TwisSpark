@@ -17,7 +17,7 @@
 - 🎥 Te enseño a programar bots de Discord en [Youtube](https://youtube.com/@twisspark_bdfd?si=UQIS-n_T8KbB0WDa) (+40 subs)
 - 🎶 Mi canción [Dance in My Glitch (by Twis Spark)](https://youtu.be/2iiDZ_vr0wg?si=U8RST5xHIx1YhLKy)
 - 📗 Autor de la playlist [Iniciación a la programación en Bot Designer for Discord: Casos prácticos](https://youtube.com/playlist?list=PL7GWV_kobZSTkfj-Wf5fGZ3NwjstG3ayi&si=ZmvM9ItXSEDsHjzg) Aprende desde lo básico hasta crear tus propios bots con ejemplos prácticos.
-- 🧑‍🏫 Creador de [The TeamCat Community](https://discord.gg/xqFh9XzHt7)
+- 🧑‍🏫 Creador de [The TeamCat Community](https://discord.gg/KwjVTxFHMP)
 <br>
 
 ## Proyectos *bombitas*
