@@ -37,7 +37,7 @@
 
 ## Proyectos *bombitas* 💣
 
-Aquí van algunos de mis proyectos destacados (agrega links, descripciones y badges cuando los tengas listos):
+Aquí van algunos de mis proyectos destacados:
 
 ---
 
