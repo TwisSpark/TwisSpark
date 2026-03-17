@@ -39,12 +39,6 @@
 
 Aquí van algunos de mis proyectos destacados (agrega links, descripciones y badges cuando los tengas listos):
 
-- **Bot X** → [Repo] – Descripción corta y 🔥
-- **Herramienta Y** → [Repo] – ...
-- **Playlist completa** → Enlace directo
-
-*(Pronto agrego más con previews o GIFs para que queden espectaculares)*
-
 ---
 
 <div align="center">
