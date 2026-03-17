@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://youtube.com/@twis-spark">Twis Spark</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://youtube.com/@twis_spark">Twis Spark</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/HUiHhCN.png">
 
